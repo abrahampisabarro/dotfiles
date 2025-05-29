@@ -49,3 +49,5 @@ dotfiles/
 Ideal for clean setups on new macOS environments, especially for security engineers, automation specialists, and CLI-based developers.
 
 ---
+
+🛠 ️ Built by Abraham Pisabarro Gallego — aspiring cybersecurity expert & automation engineer.
