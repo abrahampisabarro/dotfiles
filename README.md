@@ -50,4 +50,4 @@ Ideal for clean setups on new macOS environments, especially for security engine
 
 ---
 
-🛠 ️ Built by Abraham Pisabarro Gallego — aspiring cybersecurity expert & automation engineer.
+🛠 ️ Built by Abraham Pisabarro Gallego.
